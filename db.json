@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "publisher": "Epoca",
+      "area": "Fantasia"
+    }
+  ]
+}

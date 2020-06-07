@@ -1,2 +1,2 @@
-# bookstore_ajs_igti
-A simple mock api with json-server for Bookstore project
+# app_bookstore_ajs_igti
+Bookstore app in  react for AJS in IGTI
