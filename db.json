@@ -1,11 +1,31 @@
 {
   "books": [
     {
-      "id": 1,
+      "title": "As crônicas de Nárnia",
+      "author": "C. S. Lewis",
+      "publisher": "Fantasy",
+      "area": "Fantasia, Infantil",
+      "createdAt": "2020-06-08T01:32:32.327Z",
+      "updatedAt": "2020-06-08T01:32:32.327Z",
+      "id": 2
+    },
+    {
       "title": "Harry Potter",
       "author": "J.K Rowling",
-      "publisher": "Epoca",
-      "area": "Fantasia"
+      "publisher": "Fantasy",
+      "area": "Fantasia, Infantil",
+      "createdAt": "2020-06-08T01:35:14.281Z",
+      "updatedAt": "2020-06-08T01:35:14.281Z",
+      "id": 3
+    },
+    {
+      "title": "O Guia Do Mochileiro das Galáxias",
+      "author": "Douglas Adams",
+      "publisher": "42",
+      "area": "Ficção, Humor",
+      "createdAt": "2020-06-08T01:35:31.804Z",
+      "updatedAt": "2020-06-08T01:35:31.804Z",
+      "id": 4
     }
   ]
 }
